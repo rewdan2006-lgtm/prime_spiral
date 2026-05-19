@@ -1,4 +1,3 @@
-```markdown
 # Ulam Spiral (Prime Number Distribution)
 
 This project generates and visualizes the **Ulam Spiral** (also known as the Prime Spiral). The Ulam Spiral is a graphical depiction of the distribution of prime numbers, constructed by writing the positive integers in a square spiral and specially marking the prime numbers. 
@@ -61,6 +60,3 @@ coords = generate_spiral(1200)
 
 This project is open-source and free to use.
 
-```
-
-```
